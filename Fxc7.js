@@ -686,7 +686,7 @@ return new Promise(resolve => setTimeout(resolve, ms));
 		case 'daftar':
 		case 'verify':
 					frhan.updatePresence(from, Presence.composing)
-					if (isUser) return reply('kamu sudah Menjadi Temen IRIENEBOT:D')
+					if (isUser) return reply('kamu sudah Menjadi Temen JUNNBOT:D')
 					if (isBanned) return reply(mess.only.benned)
 					user.push(sender)
 					fs.writeFileSync('./database/json/user.json', JSON.stringify(user))
@@ -1236,7 +1236,7 @@ return new Promise(resolve => setTimeout(resolve, ms));
 			break 
 				case 'owner':
 				frhan.sendMessage(from, {displayname: "jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-				reply('wa.me/628311800241')
+				reply('wa.me/62895605030379')
 				break
 				
 			case 'fitnah':
