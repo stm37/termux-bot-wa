@@ -16,8 +16,8 @@
 {
     "result": {
         "Created": "FarhanXCode7",
-        "soal": "Jenis-jenis cewek yang didemenin para cowok?",
-        "jawaban": "Cantik\nSeksi\nManis\nManja"
+        "soal": "jenis jenis senjata assault riffle?",
+        "jawaban": "M14\AUG\GROZA\M4A1"
     }
 },
 {
@@ -72,8 +72,8 @@
 {
     "result": {
         "Created": "FarhanXCode7",
-        "soal": "Perasaan apa yang ada bila mau kencan pertama?",
-        "jawaban": "\nSenang\nGrogi\nGembira\nDag dig dug"
+        "soal": "character penambah hp di free fire?",
+        "jawaban": "alok"
     }
 },
 {
